@@ -69,9 +69,6 @@ export default function Weather() {
           </div>
         </div>
         <h4 className="week">5 Day Forecast</h4>
-        <div className="row box">
-          <div></div>
-        </div>
       </div>
     </div>
   );
